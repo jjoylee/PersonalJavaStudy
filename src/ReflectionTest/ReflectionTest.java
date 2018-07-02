@@ -91,6 +91,6 @@ public class ReflectionTest {
 		assertTrue(obj instanceof ReflectionTarget);
 		Constructor constructor = clazz.getConstructor();
 		Object obj2 = constructor.newInstance();
-		
+		 	
 	}
 }
