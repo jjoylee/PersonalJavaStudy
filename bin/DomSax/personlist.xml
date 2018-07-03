@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<person id = "1">
+		<name>benjamin Kim</name>
+		<company>u-angel co.</company>
+	</person>
+	<person id = "2">
+		<name>Hamzani Ali</name>
+		<company><![CDATA[DCSB & Malaysia]]></company>
+	</person>
+</list>
