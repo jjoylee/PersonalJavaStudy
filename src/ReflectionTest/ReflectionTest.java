@@ -1,4 +1,4 @@
-package ReflectionTest;
+package reflectiontest;
 
 import static org.junit.Assert.*;
 
@@ -11,7 +11,7 @@ import java.lang.reflect.Method;
 import org.junit.Before;
 import org.junit.Test;
 
-import Reflection.ReflectionTarget;
+import reflection.ReflectionTarget;
 
 public class ReflectionTest {
 	

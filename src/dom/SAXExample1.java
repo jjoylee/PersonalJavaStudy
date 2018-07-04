@@ -1,4 +1,4 @@
-package DomSax;
+package dom;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package DomSax;
+package dom;
 
 public class PersonValue {
 	

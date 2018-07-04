@@ -1,4 +1,4 @@
-package DomSax;
+package dom;
 
 import java.io.CharArrayWriter;
 import java.util.ArrayList;

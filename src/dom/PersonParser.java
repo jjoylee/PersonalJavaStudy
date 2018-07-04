@@ -1,4 +1,4 @@
-package DomSax;
+package dom;
 
 import java.io.IOException;
 import java.util.ArrayList;
