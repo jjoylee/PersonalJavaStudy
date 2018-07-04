@@ -67,7 +67,7 @@ public class JSONMapper<T> {
 		return rtList;
 	}
 
-	private T getValueObject(Class<T> clazz, JSONObject jsonObj) throws Exception{
+	public T getValueObject(Class<T> clazz, JSONObject jsonObj) throws Exception{
 		T rtObj = clazz.newInstance();
 		
 		Set<String> keySet = jsonObj.keySet();
